@@ -1,6 +1,6 @@
-package app.model;
+package app.models;
 
-public class TShirtProducer implements Producer{
+public class TShirtProducer implements Producer {
 
     @Override
     public String producer() {

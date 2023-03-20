@@ -1,6 +1,6 @@
-package app.model;
+package app.models;
 
-public class BlackCap extends Cap{
+public class BlackCap extends Cap {
     @Override
     public String name() {
         return "Cap black";

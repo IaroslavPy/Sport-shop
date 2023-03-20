@@ -1,6 +1,6 @@
-package app.model;
+package app.models;
 
-public class BlueTShirt extends TShirt{
+public class BlueTShirt extends TShirt {
     @Override
     public String name() {
         return "T-shirt blue";

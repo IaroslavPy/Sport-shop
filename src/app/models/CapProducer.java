@@ -1,6 +1,6 @@
-package app.model;
+package app.models;
 
-public class CapProducer implements Producer{
+public class CapProducer implements Producer {
     @Override
     public String producer() {
         return "Smart caps";

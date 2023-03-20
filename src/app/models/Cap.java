@@ -1,4 +1,4 @@
-package app.model;
+package app.models;
 
 public abstract class Cap implements Product {
     @Override
