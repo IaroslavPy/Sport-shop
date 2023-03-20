@@ -6,6 +6,7 @@ import app.view.ProductView;
 
 public class App {
     public static void main(String[] args) {
+        System.out.println("Deleted");
 
         OrderBuilder orderBuilder = new OrderBuilder();
         ProductView viewOrder = new ProductView();
